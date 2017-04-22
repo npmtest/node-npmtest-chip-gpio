@@ -1,4 +1,7 @@
-# test coverage for  [chip-gpio (v1.1.2)](https://github.com/jeremyscalpello/chip-gpio#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-chip-gpio.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chip-gpio) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chip-gpio.svg)](https://travis-ci.org/npmtest/node-npmtest-chip-gpio)
+# npmtest-chip-gpio
+
+#### basic test-coverage for  [chip-gpio (v1.1.2)](https://github.com/jeremyscalpello/chip-gpio#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-chip-gpio.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chip-gpio) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chip-gpio.svg)](https://travis-ci.org/npmtest/node-npmtest-chip-gpio)
+
 #### GPIO access for CHIP and Node.JS
 
 [![NPM](https://nodei.co/npm/chip-gpio.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/chip-gpio)
@@ -74,7 +77,8 @@
         "url": "git+https://github.com/jeremyscalpello/chip-gpio.git"
     },
     "scripts": {},
-    "version": "1.1.2"
+    "version": "1.1.2",
+    "bin": {}
 }
 ```
 
